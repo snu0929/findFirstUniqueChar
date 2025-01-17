@@ -20,7 +20,7 @@ Start the server using Nodemon:
 yarn start or npm run start
 ```
 The API will be running on http://localhost:3000.
-
+the deploayed link -  https://findfirstuniquechar.onrender.com/
 AI Tools Used
 This project was assisted by OpenAI's ChatGPT to help with:
 
