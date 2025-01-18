@@ -21,11 +21,7 @@ yarn start or npm run start
 ```
 The API will be running on http://localhost:3000.
 the deploayed link -  https://findfirstuniquechar.onrender.com/
-AI Tools Used
-This project was assisted by OpenAI's ChatGPT to help with:
 
-Writing and optimizing the code.
-Creating the README and documentation.
 Find First Unique Character Function
 The findFirstUniqueChar function, which is the core of this project, was written entirely by me, with no external assistance.
 
